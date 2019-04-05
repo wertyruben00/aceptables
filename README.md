@@ -1,2 +1,2 @@
-# aceptables
-Codigos bonitos
+# Aceptables
+Los codigos mas presentables de un 
