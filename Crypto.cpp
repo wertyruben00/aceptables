@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int gcd(int a, int b) {
+int gcd(int a, int b) { //SOI LA VERGA CHUPO
    if (b == 0)
    return a;
    return gcd(b, a % b);
